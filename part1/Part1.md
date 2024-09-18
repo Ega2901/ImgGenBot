@@ -1,4 +1,3 @@
-```markdown
 # 📸 ImgGenBot (Tutorial)
 
 ## 🛠️ Part 1: Setup and Preparation
@@ -12,7 +11,6 @@ First, make sure you have Python 3.12 installed on your system. You can verify t
 ```bash
 python3 --version
 ```
-
 If Python 3.12 is not installed, download and install it from the official Python website [here](https://www.python.org/downloads/).
 
 ### 🧑‍💻 Step 2: Set Up a Virtual Environment
