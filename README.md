@@ -1,5 +1,23 @@
 # 📸 ImgGenBot (Tutorial)
 
+# 📑 Table of Contents
+
+1. [Overview](#-overview)
+2. [Key Components](#-key-components)
+   - [Telegram Bot](#-telegram-bot)
+   - [Flux Model for Image Generation](#-flux-model-for-image-generation)
+   - [Subscription-Based Payment System](#-subscription-based-payment-system)
+   - [API Development with FastAPI](#-api-development-with-fastapi)
+   - [Docker for Containerization](#-docker-for-containerization)
+   - [Database](#-database)
+   - [Payment Processing](#-payment-processing)
+3. [How it Works](#-how-it-works)
+4. [Future Enhancements](#-future-enhancements)
+5. [Part 1: Setup and Preparation](./part1/Part1.md)
+6. [Conclusion](#-conclusion)
+
+---
+
 # 📄 `Project Documentation`
 
 ## 🚀 Overview
@@ -74,6 +92,10 @@ This project involves building a Telegram bot that integrates advanced AI capabi
 
 - **Performance Optimization**:  
    Implement additional caching layers or pre-generated model responses for common text descriptions to speed up the image generation process.
+
+## 📄 [Part 1: Setup and Preparation](./part1/Part1.md)
+
+The first part of the tutorial guides you through setting up your development environment, installing dependencies, and preparing the project for development.
 
 ---
 
