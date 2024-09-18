@@ -14,7 +14,7 @@ This project involves building a Telegram bot that integrates advanced AI capabi
      The bot allows users to enter text descriptions, which are processed by the Flux model to generate corresponding images. Users can interact with the bot to describe the image they want, and the bot will respond with a generated image after processing the text input.  
 
 ### 2. **Flux Model for Image Generation**
-   - **Model**: [Flux (Hugging Face)](https://huggingface.co/models](https://huggingface.co/black-forest-labs/FLUX.1-schnell/)  
+   - **Model**: [Flux (Hugging Face)](https://huggingface.co/black-forest-labs/FLUX.1-schnell/)  
      The **Flux model** is a machine learning model designed for generating images from text descriptions. It uses advanced natural language processing (NLP) techniques to understand user input and generate realistic and creative visual outputs. The model is hosted on the Hugging Face platform, which allows easy access and integration into the bot through their API.
 
 ### 3. **Subscription-Based Payment System**
