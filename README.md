@@ -20,7 +20,7 @@
    Hugging Face is a popular platform for sharing and deploying machine learning models, particularly in NLP (natural language processing). It offers easy-to-use tools and pretrained models, allowing developers to integrate AI into their projects.
 
 7. **[Flux](https://huggingface.co/black-forest-labs/FLUX.1-schnell/)**  
-   Flux is a machine learning model available on Hugging Face, designed for tasks like language understanding, generation, and more. It leverages state-of-the-art transformer architectures, allowing users to apply advanced AI models with minimal setup.
+   FLUX.1 [schnell] is a 12 billion parameter rectified flow transformer capable of generating images from text descriptions. 
 
 
 
